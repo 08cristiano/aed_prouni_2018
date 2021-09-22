@@ -1,0 +1,2 @@
+# AED - Cursos e notas de corte do PROUNI 2018
+Esse repositório contém os códigos-fonte da Análise Exploratória de Dados publicada em: https://medium.com/@08cristiano/aed-cursos-e-notas-de-corte-do-prouni-2018-cdc8dd030b29
